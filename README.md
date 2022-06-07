@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Node JS, Python
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me: phone 602-367-854, e-mail: rafalwas@proton.me
+- 📫 How to reach me: phone 602-367-854, e-mail: rafalwas88@gmail.com
 
 <!---
 qrreel/qrreel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

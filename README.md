@@ -3,7 +3,7 @@
 <br />
 
 <p>👋 My name is Rafał and I am a self-taught developer.<br />
-  🌱 I'm learning FrontEnd about 6 months and I am constantly learning and growing my skills.</p>
+  🌱 I'm learning FrontEnd about 6 months and I am constantly growing my skills.</p>
         
 <p>👀 Looking for my first dream job as a FrontEnd Developer<br />
   💪 Ready for hard work to achieve my own and my future team goals.

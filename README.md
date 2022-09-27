@@ -16,9 +16,9 @@
     <h2>🛠 Skills & tools</h2>
   </tr>  
   <tr>
-    <td width="150px" align="right">HTML</td>
+    <td width="150px" align="right">HTML/CSS</td>
     <td width="150px">⭐⭐⭐⭐</td>
-    <td width="600px" rowspan="12">
+    <td width="600px" rowspan="11">
 <div align="center">
 
 ## GitHub Stats
@@ -35,10 +35,6 @@
 </div>
     </td>
   </tr>  
-  <tr>
-    <td align="right">CSS</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
   <tr height="50px">
     <td align="right">JavaScript</td>
     <td>⭐⭐⭐</td>

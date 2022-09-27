@@ -18,7 +18,7 @@
   <tr>
     <td width="150px" align="right">HTML</td>
     <td width="150px">⭐⭐⭐⭐</td>
-    <td width="600px" rowspan="11">
+    <td width="600px" rowspan="12">
 <div align="center">
 
 ## GitHub Stats
@@ -42,6 +42,10 @@
   <tr height="50px">
     <td align="right">JavaScript</td>
     <td>⭐⭐⭐</td>
+  </tr>  
+  <tr height="50px">
+    <td align="right">TypeScript</td>
+    <td>⭐</td>
   </tr>  
   <tr height="50px">
     <td align="right">React</td>
@@ -83,7 +87,6 @@
 <div>
   <h4>
     <ul>
-      <li>TypeScript</li>
       <li>SCSS</li>
       <li>JEST</li>
     </ul>

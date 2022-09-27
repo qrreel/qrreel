@@ -95,10 +95,10 @@
 
 ## 💬 Contact me
 mail: <a href="mailto:rafalwas88@gmail.com">rafalwas88@gmail.com</a><br />
-LinkedIn: <a href="http://www.linkedin.com/in/rafał-wąs-5b34a0248" target="blank">Link</a>
+<a href="http://www.linkedin.com/in/rafał-wąs-5b34a0248" target="blank">LinkedIn</a>
 
 ### Other links
-CSS Battle: <a href="https://cssbattle.dev/player/FMjdVPwyHZcs6CAxHxsnOfYt48g2" target="blank">Link</a>
+<a href="https://cssbattle.dev/player/FMjdVPwyHZcs6CAxHxsnOfYt48g2" target="blank">CSS Battle</a>
 
 <!--- qrreel/qrreel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -35,19 +35,19 @@
 </div>
     </td>
   </tr>  
-  <tr height="50px">
-    <td align="right">SCSS</td>
+  <tr>
+    <td align="right">SCSS</td>  
     <td>⭐⭐</td>
   </tr>
-    <tr height="50px">
+  <tr>
     <td align="right">JavaScript</td>
     <td>⭐⭐⭐</td>
   </tr> 
-  <tr height="50px">
+  <tr>
     <td align="right">TypeScript</td>
     <td>⭐</td>
   </tr>  
-  <tr height="50px">
+  <tr>
     <td align="right">React</td>
     <td>⭐⭐</td>
   </tr>  
@@ -75,7 +75,7 @@
     <td align="right">Webpack</td>
     <td>⭐</td>
   </tr>  
-    <tr>
+  <tr>
     <td align="right">CleanCode</td>  
     <td>⭐⭐⭐</td>
   </tr>
@@ -83,11 +83,11 @@
     <td align="right">VS Code</td>  
     <td>⭐⭐⭐⭐</td>
   </tr>
-    <tr height="50px">
+  <tr>
     <td align="right">Figma</td>
     <td>⭐⭐</td>
   </tr> 
-    <tr height="50px">
+  <tr>
     <td align="right">Power Apps</td>
     <td>⭐⭐</td>
   </tr> 

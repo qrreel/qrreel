@@ -18,7 +18,7 @@
   <tr>
     <td width="150px" align="right">HTML/CSS</td>
     <td width="150px">⭐⭐⭐⭐</td>
-    <td width="600px" rowspan="11">
+    <td width="600px" rowspan="15">
 <div align="center">
 
 ## GitHub Stats
@@ -36,9 +36,13 @@
     </td>
   </tr>  
   <tr height="50px">
+    <td align="right">SCSS</td>
+    <td>⭐⭐</td>
+  </tr>
+    <tr height="50px">
     <td align="right">JavaScript</td>
     <td>⭐⭐⭐</td>
-  </tr>  
+  </tr> 
   <tr height="50px">
     <td align="right">TypeScript</td>
     <td>⭐</td>
@@ -68,13 +72,25 @@
     <td>⭐⭐</td>
   </tr>  
   <tr>
-    <td align="right">Parcel</td>
+    <td align="right">Webpack</td>
     <td>⭐</td>
   </tr>  
+    <tr>
+    <td align="right">CleanCode</td>  
+    <td>⭐⭐⭐</td>
+  </tr>
   <tr>
     <td align="right">VS Code</td>  
     <td>⭐⭐⭐⭐</td>
   </tr>
+    <tr height="50px">
+    <td align="right">Figma</td>
+    <td>⭐⭐</td>
+  </tr> 
+    <tr height="50px">
+    <td align="right">Power Apps</td>
+    <td>⭐⭐</td>
+  </tr> 
 </table>
 
 <br />
@@ -83,7 +99,6 @@
 <div>
   <h4>
     <ul>
-      <li>SCSS</li>
       <li>JEST</li>
     </ul>
   </h4>

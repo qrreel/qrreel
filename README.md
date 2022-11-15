@@ -18,7 +18,7 @@
   <tr>
     <td width="150px" align="right">HTML/CSS</td>
     <td width="150px">⭐⭐⭐⭐</td>
-    <td width="600px" rowspan="15">
+    <td width="600px" rowspan="17">
 <div align="center">
 
 ## GitHub Stats
@@ -52,21 +52,9 @@
     <td>⭐⭐</td>
   </tr>  
   <tr>
-    <td align="right">Python</td>
-    <td>⭐⭐</td>
-  </tr>  
-  <tr>
-    <td align="right">Java</td>
-    <td>⭐</td>
-  </tr>  
-  <tr>
     <td align="right">Rest API</td>
     <td>⭐⭐</td>
-  </tr>  
-  <tr>
-    <td align="right">Git</td>
-    <td>⭐⭐⭐</td>
-  </tr>  
+  </tr> 
   <tr>
     <td align="right">NPM</td>
     <td>⭐⭐</td>
@@ -74,6 +62,30 @@
   <tr>
     <td align="right">Webpack</td>
     <td>⭐</td>
+  </tr>  
+  <tr>
+    <td align="right">Power Apps</td>
+    <td>⭐⭐</td>
+  </tr> 
+  <tr>
+    <td align="right">Python</td>
+    <td>⭐⭐</td>
+  </tr>  
+  <tr>
+    <td align="right">Java</td>
+    <td>⭐</td>
+  </tr>   
+  <tr>
+    <td align="right">C#</td>
+    <td>⭐</td>
+  </tr>   
+  <tr>
+    <td align="right">Unity</td>
+    <td>⭐</td>
+  </tr>  
+  <tr>
+    <td align="right">Git</td>
+    <td>⭐⭐⭐</td>
   </tr>  
   <tr>
     <td align="right">CleanCode</td>  
@@ -85,10 +97,6 @@
   </tr>
   <tr>
     <td align="right">Figma</td>
-    <td>⭐⭐</td>
-  </tr> 
-  <tr>
-    <td align="right">Power Apps</td>
     <td>⭐⭐</td>
   </tr> 
 </table>

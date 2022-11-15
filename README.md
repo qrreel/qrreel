@@ -109,7 +109,7 @@
 
 ## 💬 Contact me
 mail: <a href="mailto:rafalwas88@gmail.com">rafalwas88@gmail.com</a><br />
-<a href="http://rafalwas.pl" target="blank">My website/a><br/>
+<a href="http://rafalwas.pl" target="blank">My Website</a><br/>
 <a href="http://www.linkedin.com/in/rafał-wąs-5b34a0248" target="blank">LinkedIn</a>
 
 ### Other links

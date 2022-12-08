@@ -81,7 +81,7 @@
   </tr>   
   <tr>
     <td align="right">C#</td>
-    <td>⭐</td>
+    <td>⭐⭐</td>
   </tr>   
   <tr>
     <td align="right">Unity</td>

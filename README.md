@@ -85,7 +85,7 @@
   </tr>   
   <tr>
     <td align="right">Unity</td>
-    <td>⭐</td>
+    <td>⭐⭐</td>
   </tr>  
   <tr>
     <td align="right">Git</td>
